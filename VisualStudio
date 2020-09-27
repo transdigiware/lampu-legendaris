@@ -1,0 +1,1 @@
+https://{mayakarya}.visualstudio.com/{project}/_apis/git/repositories/{repositoryId}?api-version=5.0-preview.1

@@ -1,0 +1,1 @@
+az storage blob url -c $storageContainer --name index.html --account-name $storageAccount

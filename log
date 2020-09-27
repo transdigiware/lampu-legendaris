@@ -1,0 +1,4 @@
+[00:00:00] Build started
+[00:00:00] git clone -q --branch=master https://github.com/transdigiware/Transform-Digital.git C:\projects\transform-digital-fgtx5
+[00:00:02] git checkout -qf 672b9edbb3483df34cc1a61befa78a3f19a80d7d
+[00:00:02] The build phase is set to "MSBuild" mode (default), but no Visual Studio project or solution files were found in the root directory. If you are not building Visual Studio project switch build mode to "Script" and provide your custom build command.
